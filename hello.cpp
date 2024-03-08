@@ -1,5 +1,10 @@
-#include<iostream>
-int main(){
-  std::cout<<("akki");
-return 1;
+//File: hello.cpp
+#include <iostream>
+using namespace std;
+
+int main(void) {
+  cout << "Hello, World\n";
+  cout << "Hello, Jenkins by akhilesh\n";
+  cout << "I have successfully built and run\n";
+  return 0;
 }
